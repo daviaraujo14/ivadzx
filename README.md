@@ -1,7 +1,7 @@
 # 👋 Olá! Eu Sou Davi Araújo
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – 1º semestre  
-💻 Focado em aprender **Python**, **MySQL**, **HTML** e **CSS**  
+💻 Focado em aprender **Python**, **SQL**, **HTML** e **CSS**  
 🚀 Apaixonado por tecnologia e em constante evolução
 
 ---
